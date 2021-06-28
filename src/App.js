@@ -6,7 +6,7 @@ import ScheduleTest from './ScheduleTest';
 import { CircularProgress } from '@material-ui/core';
 import moment from 'moment';
 
-const corsUrl="https://corsanywhere.herokuapp.com/";
+const corsUrl="https://polar-fjord-11839.herokuapp.com/";
 
 function App() {
 
